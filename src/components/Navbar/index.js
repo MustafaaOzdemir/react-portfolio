@@ -15,12 +15,12 @@ const Navbar = () => {
                
                  </Logo>
                 <UlList >
-                    < ListItem><Link to="/">Home</Link></ListItem>
+                    < ListItem><Link to="/react-portfolio">Home</Link></ListItem>
                     < ListItem>< Anchor href="#">Work</ Anchor></ListItem>
                     < ListItem>< Anchor href="#">Portfoo</ Anchor></ListItem>
                     < ListItem>< Anchor href="#">Resume</ Anchor></ListItem>
                     < ListItem>< Anchor href="#">About</ Anchor></ListItem>
-                    < ListItem><Link to ="/contact">Contact</Link></ListItem>
+                    < ListItem><Link to="/react-portfolio/contact">Contact</Link></ListItem>
                 </UlList>
                 
             </div>

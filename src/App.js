@@ -14,8 +14,8 @@ class App extends Component {
     return (
       <BrowserRouter>
       <Navbar/>
-        <Route exact path='/'component={Index} />
-        <Route path='/contact' component={Contact}/>
+        <Route exact path='/react-portfolio'component={Index} />
+        <Route path='/react-portfolio/contact' component={Contact}/>
 
       </BrowserRouter>
     )
