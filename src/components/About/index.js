@@ -5,7 +5,7 @@ const About = () =>{
       <AboutSection>
       <div className="container">
           <AboutInfo>
-              <InfoTitle><Span>This is</Span> Me</InfoTitle>
+              <InfoTitle><Span>This is </Span>Me</InfoTitle>
               <InfoDir>UI/UX Designer</InfoDir>
               <InfoDesc>
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim est <a href="/">explicabo</a> maxime quibusdam quaerat nihil aliquid aperiam deleniti, repellendus dolorum. Possimus nisi cupiditate ad veritatis?
