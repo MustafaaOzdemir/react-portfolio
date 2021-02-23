@@ -10,7 +10,7 @@ const Profile = () =>{
               <ul className="profile-list">
                   <li className="profile-item">
                       <span>Name</span>
-                      Mostafa Rawash
+                      Mark John
                   </li>
                   <li className="profile-item">
                       <span>Birthday</span>
@@ -26,7 +26,7 @@ const Profile = () =>{
                   </li>
                   <li className="profile-item">
                       <span>Email</span>
-                      mostafaatya077@gmail.com
+                      mark@gmail.com
                   </li>
                   <li className="profile-item">
                       <span>Website</span>
@@ -57,7 +57,7 @@ const Profile = () =>{
               </div>
               
               <div className="bar">
-                  <span className="title">Golang.fluter,Ionic</span>
+                  <span className="title">Golang.Flutter,Ionic</span>
                   <span className="perc">80%</span>
                   <div className="parent">
                       <span className="sp3"></span>

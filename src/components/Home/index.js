@@ -5,10 +5,10 @@ const Home = () => {
       <HomeSection>
             <div className="container">
                 <HomeInformation>
-                    <HometTitle>Mostafa Rawash</HometTitle>
-                    <HomeInfo>Creative Director</HomeInfo>
+                    <HometTitle>Mark John</HometTitle>
+                    <HomeInfo>UI/UX Designer</HomeInfo>
                     < HomeDesc>
-                        Iam a professional <Span>UX Designer</Span> and Front-End Developer creating modern and resposive designs to Web and Mobile. Let us work together. Thank you. 
+                        Iam a professional <Span>UI/UX Designer</Span> and Front-End Developer creating modern and resposive designs to Web and Mobile. Let us work together. Thank you. 
                     </ HomeDesc>
                     <HomeBtn>Let's Begin</HomeBtn>
                 </HomeInformation>
